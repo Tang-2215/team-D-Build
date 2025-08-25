@@ -1,6 +1,6 @@
 # อ่านก่อน
 
-## WEBPAGE: [คลิกที่นี่](https://tang-2215.github.io/team-D-Build/) 
+## [https://tang-2215.github.io/team-D-Build/](https://tang-2215.github.io/team-D-Build/) 
 
 ---
 ### วิธีใช้งาน
